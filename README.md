@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/KF"><img src="https://api.daily.dev/devcards/c4ff0566ae464a6b8c85fb8fdf42e2df.png?r=c8m" width="400" alt="Gcv's Dev Card"/></a>
+
 <!--
 **elgcv/elgcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
